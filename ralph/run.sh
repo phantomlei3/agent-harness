@@ -3,9 +3,9 @@
 # ==========================================
 # 环境变量配置
 # ==========================================
-export PROJECT_NAME="xxx" # 可以根据实际任务修改
-CUR_DIR=$(pwd)
-export RALPH_WORKSPACE_DIR="${CUR_DIR}/../ralph-workspace/${PROJECT_NAME}"
+export PROJECT_NAME="doc-standardize" # 可以根据实际任务修改
+WORKING_DIR="/agent-harness/"
+export RALPH_WORKSPACE_DIR="/agent-harness/ralph-workspace/${PROJECT_NAME}"
 
 # 确保 Ralph 的状态目录结构存在
 mkdir -p "${RALPH_WORKSPACE_DIR}/worklog"
