@@ -1,0 +1,4 @@
+interface:
+  display_name: "TDD"
+  short_description: "xLLM behavior-first test strategy"
+  default_prompt: "Use $tdd to plan behavior-first tests for an xLLM change."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prototype"
+  short_description: "Prototype core changes on an isolated local branch"
+  default_prompt: "Use $prototype to make proposed core code changes concrete on a new local branch and explain them in a standalone HTML artifact."

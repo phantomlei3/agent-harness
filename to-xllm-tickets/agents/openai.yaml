@@ -1,0 +1,4 @@
+interface:
+  display_name: "xLLM Tickets"
+  short_description: "Split xLLM work into local tickets"
+  default_prompt: "Use $to-xllm-tickets to turn this xLLM plan or specification into local ticket files."

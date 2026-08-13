@@ -1,0 +1,4 @@
+interface:
+  display_name: "To xLLM Spec"
+  short_description: "Draft concise implementation specs for xLLM work."
+  default_prompt: "Use $to-xllm-spec to turn the current context into a concise xLLM engineering spec."
